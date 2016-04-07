@@ -77,12 +77,3 @@ func boil(arr:[String]) -> Int {
 }
 
 print(analysis(one))
-
-//takes in 3 things
-//boils down them
-//switch for the number of special functions
-//then have a switch for the middle thing to choose which one it goes to
-
-//check if the first response isnt one thing 
-
-//if more than 1, take 2 more args
